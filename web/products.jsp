@@ -21,7 +21,7 @@
         <td>Hình ảnh</td>
     </tr>
 
-<c:forEach items="${products}" var="product">
+<c:forEach items="${danh_sach_san_pham}" var="product">
 
     <tr>
         <td>${product.getName()}</td>
