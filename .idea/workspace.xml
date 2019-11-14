@@ -7,10 +7,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="48b81ecb-717d-43a6-9980-76f468851e72" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/models/ProductManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/mysql-connector-java-5.1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/DBConnection.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/servlets/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/servlets/ProductServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DemoJSPnJSTL.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DemoJSPnJSTL.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/DemoJSPnJSTL_war_exploded/WEB-INF/classes/models/ProductManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/DemoJSPnJSTL_war_exploded/WEB-INF/classes/servlets/ProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/DemoJSPnJSTL_war_exploded/WEB-INF/classes/servlets/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/DemoJSPnJSTL_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/DemoJSPnJSTL_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/DemoJSPnJSTL_war_exploded/products.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/DemoJSPnJSTL_war_exploded/products.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DemoJSPnJSTL/models/ProductManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DemoJSPnJSTL/servlets/ProductServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DemoJSPnJSTL/servlets/StudentServlet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controllers/ProductServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/ProductServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/services/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/services/ProductService.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +58,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.49117646" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
@@ -168,7 +178,7 @@
       <updated>1573614020344</updated>
       <workItem from="1573614022059" duration="4285000" />
       <workItem from="1573625239037" duration="78000" />
-      <workItem from="1573700496548" duration="428000" />
+      <workItem from="1573700496548" duration="2308000" />
     </task>
     <servers />
   </component>

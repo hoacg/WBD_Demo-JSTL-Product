@@ -6,7 +6,7 @@
 
     <servlet>
         <servlet-name>StudentServlet</servlet-name>
-        <servlet-class>servlets.StudentServlet</servlet-class>
+        <servlet-class>controllers.StudentServlet</servlet-class>
     </servlet>
     
     <servlet-mapping>
@@ -16,7 +16,7 @@
 
     <servlet>
         <servlet-name>ProductServlet</servlet-name>
-        <servlet-class>servlets.ProductServlet</servlet-class>
+        <servlet-class>controllers.ProductServlet</servlet-class>
     </servlet>
 
     <servlet-mapping>
